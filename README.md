@@ -1,5 +1,5 @@
-# About Me
-👋 Hi there! I’m Abdullahi, a technology enthusiast with a deep passion for both computer science and electrical engineering. My journey through the fascinating worlds of hardware and software has equipped me with a unique blend of skills and a relentless curiosity for innovation.
+#  Hi, I’m Abdullahi👋🏻👨🏽‍💻
+I am a technology enthusiast with a deep passion for both computer science and electrical engineering. My journey through the fascinating worlds of hardware and software has equipped me with a unique blend of skills and a relentless curiosity for innovation.
 
 ## 🔧 Current Focus:
 - **AI**: Exploring the intersection of artificial intelligence and computer science to solve complex problems and improve system efficiencies.
