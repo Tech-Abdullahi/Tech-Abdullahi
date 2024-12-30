@@ -18,7 +18,7 @@ I am a technology enthusiast with a deep passion for both computer science and e
 
 
 ## 🎓 Education & Learning:
-- **Academic background**: Working on my first degree in Computer Science.
+- **Academic background**: Currently pursuing my first degree in Computer Science.
 - **Ongoing Learning**: Constantly exploring new technologies and methodologies through online courses, certifications, and hands-on projects.
 
 ## 📈 Goals:
