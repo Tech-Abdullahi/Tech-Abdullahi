@@ -17,7 +17,7 @@ I am a technology enthusiast with a deep passion for both computer science and e
 - **Cybersecurity**: Protecting systems and networks from vulnerabilities and ensuring data privacy and integrity.
 - **Blockchain Technology**: Exploring the potential of decentralized systems and cryptocurrencies to revolutionize various industries.
 
-## 🧠 Languages Used
+## 🛠️ Languages & Tools Used
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
