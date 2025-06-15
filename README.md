@@ -17,6 +17,14 @@ I am a technology enthusiast with a deep passion for both computer science and e
 - **Cybersecurity**: Protecting systems and networks from vulnerabilities and ensuring data privacy and integrity.
 - **Blockchain Technology**: Exploring the potential of decentralized systems and cryptocurrencies to revolutionize various industries.
 
+## 🧠 Languages Used
+
+- **C** – Systems programming, performance-critical applications.
+- **C++** – Object-oriented and high-performance projects.
+- **Python** – Machine learning, data analysis, scripting.
+- **Java** – Backend services, mobile applications.
+- **JavaScript** – Web frontend and dynamic interfaces.
+
 ## 🎓 Education & Learning:
 - **Academic background**: Currently pursuing my first degree in Computer Science.
 - **Ongoing Learning**: Constantly exploring new technologies and methodologies through online courses, certifications, and hands-on projects.
