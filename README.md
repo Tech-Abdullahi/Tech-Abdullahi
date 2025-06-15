@@ -19,11 +19,12 @@ I am a technology enthusiast with a deep passion for both computer science and e
 
 ## 🧠 Languages Used
 
-- **C** – Systems programming, performance-critical applications.
-- **C++** – Object-oriented and high-performance projects.
-- **Python** – Machine learning, data analysis, scripting.
-- **Java** – Backend services, mobile applications.
-- **JavaScript** – Web frontend and dynamic interfaces.
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+
 
 ## 🎓 Education & Learning:
 - **Academic background**: Currently pursuing my first degree in Computer Science.
