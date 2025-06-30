@@ -36,6 +36,6 @@ I am a technology enthusiast with a deep passion for both computer science and e
 - **Mentorship**: Share my knowledge and passion for technology with the community, fostering growth and inspiration.
 
 ## 📫 Connect with Me:
- Feel free to check out my repositories to see what I've been working on, and don't hesitate to reach out if you'd like to collaborate or discuss technology!
+ Feel free to check out my repositories to see what I've been working on, and don't hesitate to reach out if you'd like to collaborate or discuss technology!.
 
 
