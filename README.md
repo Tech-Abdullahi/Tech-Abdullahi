@@ -5,6 +5,9 @@ I am a technology enthusiast with a deep passion for both computer science and e
 - **AI**: Exploring the intersection of artificial intelligence and computer science to solve complex problems and improve system efficiencies.
 - **Low-Level Programming**: Diving deep into system-level programming with languages like C and assembly, optimizing performance and understanding the intricacies of hardware-software interaction.
 - **Fullstack Development**: Building and maintaining complete web applications, proficient in both frontend and backend technologies.
+- **Software Development**: Building robust, scalable applications and exploring new programming paradigms.
+- **Cybersecurity**: Protecting systems and networks from vulnerabilities and ensuring data privacy and integrity.
+- **Blockchain Technology**: Exploring the potential of decentralized systems and cryptocurrencies to revolutionize various industries.
 
 ## 💡 Interests:
 - **Embedded Systems**: Designing and developing integrated hardware-software solutions.
